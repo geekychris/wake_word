@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Wake Word logo" width="180">
+</p>
+
 # Wake Word Detector
 
 A completely offline wake word detection and audio recording system that works on both macOS and Raspberry Pi. This project provides two implementations:
